@@ -226,18 +226,18 @@ img {
     justify-content: center;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
+.social-media {
+    display: inline-block;
+    margin-bottom: 16px;
+    font-weight: 500;
+}
 .social-bot {
     display: flex;
     justify-content: center;
     gap: 16px;
     align-items: center;
 }
-.social-media {
-    display: inline-block;
-    margin-bottom: 16px;
-    font-weight: 500;
-}
-
 /* ========================TEXT=================== */
 .first-list {
     display: flex;
